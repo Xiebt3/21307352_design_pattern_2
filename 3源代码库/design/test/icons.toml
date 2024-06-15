@@ -1,0 +1,12 @@
+#default
+[icons.none]
+leaf=""
+container=""
+
+[icons.emoji]
+leaf="🍃"
+container="🌳"
+
+[icons.poker_face]
+leaf="♤"
+container="♢"
